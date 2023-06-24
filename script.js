@@ -44,7 +44,7 @@ function loadQuiz(sub,difficulty){
           choices: ["New Jersey", "Seoul","Vatican City","California"],
           correct: 2,
           desc: "Seoul has been immersed in smart technology for years, having been named the world's first smart city back in 2014.",
-          image: "./images/seoul.jpeg"    
+          image: "./images/seoul.jpg"    
       }
       ];
   }
