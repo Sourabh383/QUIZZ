@@ -70,7 +70,7 @@ function loadQuiz(sub,difficulty){
           choices: ["Jog Falls", "Tugela Falls","Angel Falls","Victoria Falls"],
           correct: 3,
           desc: " Angel Falls (Salto Ángel) in Venezuela is the highest waterfall in the world. The falls are 3230 feet in height.",
-          image: "./images/fall.jpeg"    
+          image: "./images/fall.jpg"    
       },
       {
           question: "Which of the following statements is not correct about the 'Statue of Unity'?",
