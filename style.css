@@ -1,0 +1,21 @@
+.title{
+    color: #160040;
+    text-align: center;
+}
+.light{
+    background-color:#3F3351;
+}
+.boundary{
+border: 10px solid #BFFFF0;
+margin: 25px;
+}
+.progress{
+    height: 25px;
+    font-size: 20px;
+}
+.quest-img{
+width: 200px;
+}
+.form-check,.form-check-label{
+    cursor: pointer;
+}
